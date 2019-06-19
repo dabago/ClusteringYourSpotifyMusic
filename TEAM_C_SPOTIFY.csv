@@ -1,0 +1,229 @@
+;energy;liveness;speechiness;acousticness;instrumentalness;danceability;valence;uri;song_names;artist
+0;0.5429999999999999;0.595;0.0468;0.14400000000000002;0.848;0.413;0.7090000000000001;spotify:track:26qIVWus5hMZUcWeJUxeJx;August Twelve;Khruangbin
+1;0.757;0.0859;0.038;0.128;0.485;0.659;0.5529999999999999;spotify:track:5wQ4WwvlMMk0B7EKL5RBOM;Gamesofluck;Parcels
+2;0.835;0.669;0.0701;0.025;0.00243;0.512;0.242;spotify:track:2OPmeyf31LlcIpYcJ4aegt;Safe and Sound (WWW);Justice
+3;0.782;0.672;0.0323;0.0613;3.37e-06;0.58;0.27399999999999997;spotify:track:0LpnNgvF6z5HJYAgLClfMB;D.A.N.C.E. (WWW);Justice
+4;0.9209999999999999;0.426;0.0996;0.0124;0.00131;0.555;0.217;spotify:track:50fkJxrv0ZLTt9EHZGBOP7;Canon x Love S.O.S. (WWW);Justice
+5;0.767;0.10400000000000001;0.12;0.00409;0.605;0.541;0.258;spotify:track:7GTZa1773faSYybRdGDIjk;Genesis x Phantom (WWW);Justice
+6;0.6920000000000001;0.16399999999999998;0.0489;0.006659999999999999;0.000258;0.598;0.41200000000000003;spotify:track:4qjaG01IhHt3ZdO1FVakbs;Pleasure x Newjack x Civilization (WWW);Justice
+7;0.69;0.644;0.0367;0.007509999999999999;0.000538;0.39299999999999996;0.075;spotify:track:1qXBcPpscF2eynmVkITml7;Heavy Metal x DVNO (WWW);Justice
+8;0.48;0.39399999999999996;0.0358;0.0012;0.00398;0.431;0.0399;spotify:track:6A1f57LykyUCDhbdj4tBcz;Stress (WWW);Justice
+9;0.753;0.6629999999999999;0.0533;0.0612;0.0;0.391;0.083;spotify:track:0oBwbnefM7yniHJPjNrIVK;Love S.O.S. (WWW);Justice
+10;0.787;0.871;0.061;0.00128;0.00215;0.5720000000000001;0.2;spotify:track:62XMD2zZ0SI9pDKOBuG9we;Alakazam ! x Fire (WWW);Justice
+11;0.7659999999999999;0.155;0.0757;0.0045899999999999995;0.0008410000000000001;0.37200000000000005;0.151;spotify:track:0sibHAYzpx9FJRrGRr137u;Waters of Nazareth x We Are your Friends x Phantom 2 (WWW);Justice
+12;0.772;0.0847;0.045;0.000503;0.855;0.43799999999999994;0.154;spotify:track:3DRcwunruhHB26AHT2jekM;Chorus (WWW);Justice
+13;0.7340000000000001;0.305;0.0391;0.105;0.672;0.373;0.192;spotify:track:1xB3YT8Rakvnfcc1dp2kzJ;Audio, Video, Disco (WWW);Justice
+14;0.513;0.248;0.0322;0.059000000000000004;0.0209;0.486;0.541;spotify:track:4vIS6tLNyk9Rq8oU2z4pBZ;Stop (WWW);Justice
+15;0.6829999999999999;0.645;0.0502;0.0122;0.0597;0.32899999999999996;0.39899999999999997;spotify:track:4hYuIP1OPSnraNSWUlgKaT;Randy (WWW);Justice
+16;0.903;0.384;0.0749;0.00547;8.609999999999999e-05;0.41200000000000003;0.106;spotify:track:2BbUJuG2a06CQntBvL1B2T;D.A.N.C.E. x Fire x Safe and Sound (WWW);Justice
+17;0.687;0.645;0.051;0.0124;0.0557;0.327;0.419;spotify:track:03ZzMSzg8DlBSl0cD7Hpxl;Randy (WWW);Justice
+18;0.524;0.237;0.0303;0.12;0.073;0.511;0.491;spotify:track:0Dx2JcexaaBU11URKp9Fc1;Stop (WWW) - Radio Edit;Justice
+19;0.899;0.381;0.07400000000000001;0.00543;7.209999999999999e-05;0.42700000000000005;0.12300000000000001;spotify:track:57w72jYf2LZdPO8x4LCEFi;D.A.N.C.E. x Fire x Safe and Sound (WWW);Justice
+20;0.745;0.102;0.0839;0.00237;0.17;0.7829999999999999;0.888;spotify:track:17okhFS3QwBN3nsUZDrFBr;Locked;Four Tet
+21;0.7;0.102;0.038;0.6920000000000001;0.8590000000000001;0.653;0.51;spotify:track:133Ua3dR8fOR8uP7adVcL4;Parallel Jalebi;Four Tet
+22;0.772;0.031;0.0438;0.174;0.934;0.6709999999999999;0.518;spotify:track:2LmL53XRRZqvnXRb24UCRp;SeeSaw (Club Version);Jamie xx
+23;0.27;0.129;0.0335;0.54;0.682;0.395;0.27;spotify:track:5bqemq8TkmXBEGt0rXIiGt;Reckoner;Vitamin String Quartet
+24;0.615;0.201;0.0912;0.0418;0.0834;0.45399999999999996;0.0964;spotify:track:410fAd2tXU8aEb4vrGzslY;Give Up The Ghost (Brokenchord Rmx);Radiohead
+25;0.575;0.387;0.0332;0.46399999999999997;0.00509;0.441;0.0678;spotify:track:7krim8C3DpTu1ShdoZezix;Codex (Illum Sphere);Radiohead
+26;0.455;0.0812;0.0716;0.44299999999999995;0.6409999999999999;0.461;0.375;spotify:track:4raxzmnFq93jfKC8c3xcIv;Separator (Four Tet RMX);Radiohead
+27;0.894;0.115;0.102;0.313;0.8490000000000001;0.596;0.14300000000000002;spotify:track:1gaAIZ4vGQ6QvDUgN2Xyus;Give Up The Ghost (Thriller Houseghost Remix);Radiohead
+28;0.6559999999999999;0.0679;0.0264;0.511;0.156;0.518;0.203;spotify:track:56Z7hbyMrndw1naxb6I5Oi;Reckoner;Radiohead
+29;0.45899999999999996;0.155;0.0529;0.623;0.857;0.599;0.311;spotify:track:6N3g7nE4CAbqSEzuMU1li0;Reckoner - Live At Capitol Studios / 2014;Robert Glasper
+30;0.596;0.0834;0.053;0.0193;0.000704;0.511;0.0814;spotify:track:6MVXdWtPSNMlpn7BuGtCWD;Chronicles of a Fallen Love;The Bloody Beetroots
+31;0.67;0.19899999999999998;0.0791;0.14400000000000002;0.00265;0.7959999999999999;0.44;spotify:track:6fQiBTaKjW43HCcaYwSdwj;Cooler Couleur;Crookers
+32;0.631;0.10400000000000001;0.0274;0.0864;0.00112;0.43200000000000005;0.17;spotify:track:4kefmGM5gz8I8GlAqSTn0g;Presence;Justice
+33;0.873;0.307;0.0371;0.000279;0.696;0.597;0.382;spotify:track:5RxJENtSzEkPr6N6476Xtx;Wayfarer;Kavinsky
+34;0.8029999999999999;0.0635;0.172;0.00224;0.7709999999999999;0.73;0.7959999999999999;spotify:track:1fWQpfqqp16vhc2PVjYUnG;I’m A Man;Black Strobe
+35;0.759;0.217;0.0376;0.23800000000000002;0.005370000000000001;0.746;0.845;spotify:track:0sQkaT8KRwCYRB4JgJKkxT;Crimewave;Crystal Castles
+36;0.773;0.305;0.0369;0.0022;0.835;0.49200000000000005;0.19699999999999998;spotify:track:1xrr9bAS0zfjCXdLKpLJnA;Swoon;The Chemical Brothers
+37;0.743;0.309;0.0494;0.282;0.8029999999999999;0.669;0.27899999999999997;spotify:track:7cMFjxhbXBpOlais7KMF3j;Voyager;Daft Punk
+38;0.87;0.264;0.027999999999999997;0.00441;9.82e-05;0.6829999999999999;0.519;spotify:track:0AEB5IhgCxr4Nt8L5CrRBX;Vanished;Crystal Castles
+39;0.92;0.114;0.0531;0.11900000000000001;0.508;0.632;0.363;spotify:track:7kXmJwrZGIhDaLT9sNo3ut;Hey Boy Hey Girl;The Chemical Brothers
+40;0.6970000000000001;0.332;0.133;0.0193;0.0;0.611;0.47600000000000003;spotify:track:0DiWol3AO6WpXZgp0goxAV;One More Time;Daft Punk
+41;0.215;0.10800000000000001;0.0564;0.8420000000000001;0.976;0.61;0.915;spotify:track:5ek9nshXGyqVHpMnwCEfqB;Sonata Quinta in g minor, Op. 26: Giga: Staccatto;Brandywine Baroque: Douglas McNames, Karen Flint & Vivian Barton
+42;0.617;0.315;0.0587;0.301;0.23399999999999999;0.7390000000000001;0.36;spotify:track:4lbHRvj5vJbuonQtxQkxok;Sexto Contagio: Arroz Congrí;Alonso Arreola
+43;0.858;0.0906;0.0523;0.297;0.00323;0.65;0.955;spotify:track:5ewxaF5cInYvQ8oeNKeN6d;Jupiter;Earth, Wind & Fire
+44;0.872;0.22;0.0787;0.00884;0.381;0.655;0.664;spotify:track:7Gf3INxZR3MOAVkSOKC3p0;Dirty;Earth, Wind & Fire
+45;0.6779999999999999;0.0873;0.0301;0.457;0.0384;0.436;0.19399999999999998;spotify:track:1hHuyqVCZCbhYQixEkdQCo;Sing For Absolution;Muse
+46;0.723;0.0863;0.0312;0.00405;0.501;0.5579999999999999;0.526;spotify:track:0qG1teoBvooRo7Z5Z8edCk;La ritournelle;Sébastien Tellier
+47;0.753;0.131;0.0429;0.473;0.9109999999999999;0.8270000000000001;0.747;spotify:track:2Lt6XpDCo3xETDwWgvZJIY;Murderers;John Frusciante
+48;0.0754;0.128;0.0504;0.943;0.894;0.386;0.6509999999999999;spotify:track:45wXZS6elH1pyW5jMkYPrp;Cello Suite No. 5 in C Minor, BWV 1011: V. Gavottes I & II;Johann Sebastian Bach
+49;0.74;0.13;0.0258;0.0022600000000000003;0.0305;0.7290000000000001;0.966;spotify:track:5KBU7oxkNJ0hDGby9A1plU;After the Disco;Broken Bells
+0;0.636;0.354;0.0378;0.341;0.0188;0.6;0.9470000000000001;spotify:track:1cEFitYL6rh9iKFzD8Czkh;Ya Se Ha Muerto Mi Abuelo;Juaneco Y Su Combo
+1;0.585;0.146;0.0839;0.769;0.0;0.535;0.8490000000000001;spotify:track:4usEazO86mnTtVevxzEfeh;Ta Pillao;Las Chicas Del Can
+2;0.816;0.0967;0.16699999999999998;0.228;0.0;0.653;0.816;spotify:track:6rPO02ozF3bM7NnOV4h6s2;Despacito - Remix;Luis Fonsi
+3;0.821;0.11699999999999999;0.0377;0.154;0.0233;0.7959999999999999;0.799;spotify:track:7v8xMXZUe3ZPzke2tjZnO1;Validée;Booba
+4;0.523;0.16;0.0448;0.135;1.59e-05;0.6829999999999999;0.627;spotify:track:1C0nyj6S7Dlmw3d5iN4PNg;Plus rien ne m'étonne;Tiken Jah Fakoly
+5;0.0697;0.0952;0.0522;0.972;0.833;0.331;0.11900000000000001;spotify:track:1yxtH0kEHhCFQAWIXgidmA;Ave Maria;Johann Sebastian Bach
+6;0.0132;0.0914;0.0407;0.953;0.382;0.174;0.10300000000000001;spotify:track:7802P6tTApAfg0iCAtSYai;"Violin Sonata No. 5 In F Major, Op. 24, ""Spring"": Ii. Adagio";Ludwig van Beethoven
+7;0.007640000000000001;0.11599999999999999;0.0683;0.996;0.885;0.213;0.133;spotify:track:6jiw7N4nFOqnBZ40nwMMq1;"Piano Sonata No. 14 In C-sharp Minor, Op. 27, No. 2, ""Moonlight"": I. Adagio";Ludwig van Beethoven
+8;0.00455;0.113;0.05;0.996;0.866;0.34600000000000003;0.0997;spotify:track:773Rot8tGo8EJc4pYcvfW3;"Piano Sonata No. 8 In C Minor, Op. 13, ""Pathetique"": Ii. Adagio";Ludwig van Beethoven
+9;0.0526;0.08800000000000001;0.0433;0.988;0.883;0.0767;0.0396;spotify:track:52ABAoOxcCvag6wCz4Pcjg;"Serenade No. 10 In B-flat Major, K. 361 ""Gran Partita"": Adagio";Wolfgang Amadeus Mozart
+10;0.0853;0.10099999999999999;0.0373;0.99;0.9129999999999999;0.361;0.29;spotify:track:5KFYgxdJCyCeWaH4nAVCuS;Piano Concerto No. 19 In F Major, K. 459: Allegro;Wolfgang Amadeus Mozart
+11;0.121;0.084;0.0459;0.9590000000000001;0.8809999999999999;0.276;0.45;spotify:track:6DVLRudZv4bprppOo4sSQn;Flute Quartet In A Major, K. 298: Andante;Wolfgang Amadeus Mozart
+12;0.0371;0.10099999999999999;0.0379;0.9670000000000001;0.877;0.322;0.217;spotify:track:2jSeo4GTWxCZKaP1H2gfyW;Serenade No. 4 In D Major, K. 203: Andante;Wolfgang Amadeus Mozart
+13;0.0882;0.086;0.0451;0.975;0.867;0.33299999999999996;0.332;spotify:track:38lYfR3QK00sloZSW4PEuX;Concerto for Flute & Harp In C Major, K. 299: Ii. Andantino;Wolfgang Amadeus Mozart
+14;0.0759;0.0942;0.0406;0.9640000000000001;0.9179999999999999;0.11199999999999999;0.0546;spotify:track:4OsXyB1I3X6kYYe1GU82Zy;The Sleeping Beauty, Op. 66: Entrance of the Good Fairies;Pyotr Ilyich Tchaikovsky
+15;0.0192;0.0774;0.0727;0.9940000000000001;0.8390000000000001;0.506;0.11800000000000001;spotify:track:4Lbozc1CNSJNWVmbgBcO0O;12 Morceaux, Op. 40: No. 2. Chanson Triste In G Minor;Pyotr Ilyich Tchaikovsky
+16;0.309;0.106;0.0427;0.774;0.0;0.7659999999999999;0.457;spotify:track:371wHShA5ERqTuwuRj8xgG;Rimas pa' seducir;Cultura Profética
+17;0.746;0.171;0.0923;0.134;2.33e-05;0.659;0.6659999999999999;spotify:track:2jz6smAw1Pzy7Gs5AJACv3;La complicidad;Cultura Profética
+18;0.604;0.18100000000000002;0.059000000000000004;0.15;1.7100000000000002e-05;0.735;0.623;spotify:track:3AUF2LhnUFlSodvFq50bPG;Amante luz;Cultura Profética
+19;0.564;0.157;0.0368;0.33299999999999996;0.0009140000000000001;0.799;0.6679999999999999;spotify:track:4HdN4R0n6RU401N0FmS4e2;Para estar;Cultura Profética
+20;0.528;0.099;0.191;0.639;0.0;0.499;0.336;spotify:track:0yThzO62cGQo3Y2XEr7JjH;En la oscuridad;Cultura Profética
+21;0.7659999999999999;0.165;0.0485;0.165;0.0;0.777;0.768;spotify:track:1rWksds0t6BM5phg9qeEKv;Baja la tensión;Cultura Profética
+22;0.5870000000000001;0.0907;0.0485;0.35;0.0;0.8270000000000001;0.769;spotify:track:2K2YkSn2utzsRntEClbyB8;Ilegal;Cultura Profética
+23;0.657;0.0843;0.0916;0.354;0.0006190000000000001;0.863;0.775;spotify:track:1iacxi13r4eNkwYEtiqRxB;Somos muchos;Cultura Profética
+24;0.6;0.205;0.0443;0.185;1.65e-05;0.66;0.499;spotify:track:5swQPv1Nj5XNgIg5AeAOna;Del tope al fondo;Cultura Profética
+25;0.561;0.1;0.0399;0.45399999999999996;0.0233;0.589;0.315;spotify:track:342EXbThPNJ6xXwT5DFTiA;Me faltabas tú;Cultura Profética
+26;0.7;0.0475;0.156;0.128;0.0;0.83;0.738;spotify:track:205glCfI2TErd262A6az6T;Verso terso;Cultura Profética
+27;0.266;0.11;0.0443;0.9009999999999999;0.0;0.6970000000000001;0.419;spotify:track:0pBewKk1R251xxQzKIh9jr;La espera;Cultura Profética
+0;0.47700000000000004;0.0914;0.102;0.281;0.000822;0.457;0.627;spotify:track:0ZpBPavoID3eDbaXKSWpAD;Friends (feat. Bon Iver);Francis and the Lights
+1;0.435;0.0913;0.0647;0.46399999999999997;5.27e-06;0.784;0.865;spotify:track:0VaIsQoIQY10uxBrOyZ5cQ;May I Have This Dance (Remix) [feat. Chance the Rapper];Francis and the Lights
+2;0.893;0.14800000000000002;0.0705;0.46;0.00024900000000000004;0.606;0.774;spotify:track:0WqfoaxUvOhkOcUYv0rtLx;Black & White;Rudy Mancuso
+3;0.851;0.10099999999999999;0.0425;0.0264;0.00017900000000000001;0.649;0.262;spotify:track:2Xa9noXOlgoqSyDYAlwKs1;Salvage (Up All Night) [feat.Poo Bear];Galantis
+4;0.91;0.318;0.0566;0.0079;0.0;0.653;0.0921;spotify:track:57p8CBvPOxrvyCbn6ttl5r;Would You Ever;Skrillex
+5;0.8220000000000001;0.132;0.057;0.67;0.00115;0.67;0.833;spotify:track:0mr34YS5FIX0b2mi03HuhE;Já Sei Namorar - 2004 Digital Remaster;Tribalistas
+6;0.728;0.12;0.171;0.198;5.67e-05;0.588;0.434;spotify:track:4h7eeTElsQMwqzFhu5u2of;Aloha;Møme
+0;0.302;0.0887;0.0372;0.736;0.163;0.718;0.33299999999999996;spotify:track:0ZNYGrmcehorhh9JOeg5Iv;Stay Alive;José González
+1;0.8540000000000001;0.12300000000000001;0.12300000000000001;0.312;0.0;0.625;0.737;spotify:track:4WDGthi6OTGai45K41Al70;Déjame Ser;Manuel Carrasco
+2;0.753;0.0921;0.0407;0.000665;7.74e-06;0.55;0.841;spotify:track:1qfYG2JrchEyJiqKnkE7YQ;What You Know;Two Door Cinema Club
+3;0.657;0.0713;0.105;0.264;0.00619;0.863;0.8290000000000001;spotify:track:7anBA0IdgFaN3Pbyk2tog0;No Roots;Alice Merton
+4;0.945;0.135;0.0566;0.171;0.9159999999999999;0.731;0.223;spotify:track:6n44rF2nl6rF0q5DYgezS1;Closer;Project Pablo
+5;0.24;0.134;0.0334;0.9259999999999999;0.0;0.33899999999999997;0.312;spotify:track:6RMybMAAYmyVCYskvR7vby;All of Me;John Legend
+6;0.841;0.0674;0.152;0.0172;0.41100000000000003;0.892;0.825;spotify:track:6mpMjZ1sSkvzICHo9KgTxz;Awoo (feat. Betta Lemme) - Adam Aesalon & Murat Salman Remix;Sofi Tukker
+7;0.8690000000000001;0.98;0.0738;0.436;0.0;0.532;0.46;spotify:track:5imzROfmfaPnWpxnmAnmjS;Tambores De Guerra - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+8;0.9179999999999999;0.968;0.18600000000000003;0.28;0.0;0.539;0.293;spotify:track:3KDW5LEX1plgkAumyaVOKt;Aprieta - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+9;0.6809999999999999;0.888;0.0495;0.741;0.0;0.38;0.35100000000000003;spotify:track:2spCVe2Np0biStBPWVq4iB;Y Ahora - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+10;0.81;0.9590000000000001;0.05;0.271;0.0;0.441;0.293;spotify:track:2sz1xR8VGiPnBqQSLAVxFN;Sabrás - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+11;0.7020000000000001;0.9740000000000001;0.0579;0.718;2.46e-05;0.377;0.265;spotify:track:4EaipFhcdR3ZGvyYjq55Q0;Pequeña Sonrisa Sonora - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+12;0.72;0.977;0.0655;0.594;0.0;0.324;0.207;spotify:track:2sxQWt5dz8JmUtKSKFbzzR;La Voz De Dentro - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+13;0.759;0.981;0.0812;0.115;0.0;0.511;0.342;spotify:track:2k5KgE6Ut1YlIofrdgAtRf;Mujer De Las Mil Batallas - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+14;0.912;0.977;0.147;0.0462;0.0;0.629;0.299;spotify:track:0UVwCdSNX5D5ufv8ZuTYSn;Yo Quiero Vivir - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+15;0.88;0.953;0.0827;0.0368;3.07e-06;0.495;0.302;spotify:track:35uZpZPVGXiSabDLnlpYOi;Tan Solo Tú - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+16;0.7440000000000001;0.975;0.0525;0.278;8.25e-06;0.309;0.336;spotify:track:5lmTu3HswH7RaKSFtXVI3r;Bailar El Viento - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+17;0.7859999999999999;0.981;0.0622;0.254;0.0;0.506;0.441;spotify:track:7CQAqzVNn4egJrG5mwqXhB;Uno X Uno - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+18;0.516;0.9390000000000001;0.0609;0.878;1.53e-06;0.348;0.27699999999999997;spotify:track:29c2bDAR3O8JW6pFn8AP5W;Menos Mal - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+19;0.444;0.8390000000000001;0.128;0.89;0.0;0.414;0.606;spotify:track:4LDOFHjwhoRHiuRfbrK9ro;Yo Te Vi Pasar - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+20;0.762;0.96;0.342;0.79;3.48e-05;0.498;0.546;spotify:track:2VAkXAKxetSEBtGA5cKRxK;Soy Afortunado - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+21;0.758;0.978;0.129;0.414;0.0;0.5720000000000001;0.7609999999999999;spotify:track:1s4ZdqVAabaKIjysebxEvt;No Tengo Prisa - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+22;0.733;0.9670000000000001;0.0533;0.754;1.47e-05;0.435;0.25;spotify:track:0cvSiX6Ga5pBfDEOlTmEn6;No Dejes De Soñar - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+23;0.8320000000000001;0.961;0.0622;0.282;3.04e-06;0.536;0.455;spotify:track:375uITcGWzuoaAPJYz2Lp9;Sígueme - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+24;0.879;0.9109999999999999;0.166;0.205;5.88e-05;0.522;0.513;spotify:track:2EvW4BICUdh4XBsRZkSSK6;Que Nadie - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+25;0.317;0.92;0.0539;0.961;7.82e-06;0.371;0.166;spotify:track:6MbBWNGDuBJzDV2NXbQ1bb;Piano Bailando El Viento - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+26;0.8490000000000001;0.9690000000000001;0.157;0.445;0.0;0.485;0.489;spotify:track:3nIfn65xBnop3YVueGHB4F;Ya No - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+27;0.737;0.895;0.0641;0.168;1.58e-06;0.5;0.35;spotify:track:7qLMTG99vUMVELHB0yCjWH;Amor Planetario - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+28;0.7240000000000001;0.748;0.19899999999999998;0.638;5.21e-06;0.48100000000000004;0.518;spotify:track:4UIvzmMCkEZj8cZclXpKun;Sevilla - En Directo En El Estadio Olímpico De La Cartuja De Sevilla 2016;Manuel Carrasco
+29;0.7809999999999999;0.616;0.0817;0.127;1.86e-06;0.39399999999999996;0.364;spotify:track:4HWee28fiPF2blImhykCcG;En El Bar De Los Pesares - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+30;0.7040000000000001;0.966;0.0878;0.632;7.15e-05;0.34299999999999997;0.19899999999999998;spotify:track:1fbKeNaD82O8vR08W13jTS;Siendo Uno Mismo - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016;Manuel Carrasco
+31;0.434;0.0893;0.0561;0.845;0.0;0.735;0.44799999999999995;spotify:track:0ecukPDyYZTJDN0sfUeREe;Ya No - Versión Acústica;Manuel Carrasco
+32;0.44799999999999995;0.109;0.0463;0.87;1.25e-05;0.68;0.498;spotify:track:7Eyny0KIFS5qEFOdfZ19LM;Tambores De Guerra - Versión Acústica;Manuel Carrasco
+33;0.307;0.124;0.0996;0.894;0.0;0.455;0.309;spotify:track:3zV7zTXbxb2MEnaThBfgEr;Yo Te Vi Pasar;Manuel Carrasco
+34;0.617;0.155;0.0417;0.297;0.0;0.502;0.337;spotify:track:3RBiKNn0qns7N0sOLsMD5O;Cuando Llegó El Momento;Manuel Carrasco
+35;0.882;0.225;0.0281;0.0977;0.0;0.633;0.877;spotify:track:19okLEjTyCHK1FfrHfivIA;Quiero Estar A Tu Lado;Manuel Carrasco
+36;0.669;0.152;0.0349;0.21100000000000002;0.0;0.557;0.516;spotify:track:0UcKX6QtY5RMu96LJdshhy;La Aventura De Vivir;Manuel Carrasco
+37;0.731;0.102;0.0438;0.47700000000000004;0.0;0.45399999999999996;0.363;spotify:track:38tsOMarcSzq1BC74aesqi;Mirándote De Frente;Manuel Carrasco
+38;0.9440000000000001;0.318;0.0459;0.0016300000000000002;0.586;0.775;0.39899999999999997;spotify:track:5WYHw1zaj1il0KNfjT6sVz;Gypsy King;CamelPhat
+39;0.6729999999999999;0.0856;0.0816;0.36200000000000004;0.531;0.785;0.44299999999999995;spotify:track:2AtleKEZy5KkmlAj0krALx;Matadora;Sofi Tukker
+40;0.629;0.0857;0.0433;0.767;0.0048200000000000005;0.525;0.303;spotify:track:6O0rKdBY8tuIIqVfqtlnHL;La Teva Veu;Joan Dausà
+41;0.723;0.12;0.0752;0.187;0.5489999999999999;0.6829999999999999;0.319;spotify:track:7j6DqnrZpLKdpfX8wcb233;Three Sides of Nazareth;Nicolas Jaar
+42;0.657;0.0713;0.105;0.264;0.00619;0.863;0.8290000000000001;spotify:track:1LzguIGcb1qtA1Kw9pfwAP;No Roots;Alice Merton
+43;0.2;0.105;0.0403;0.887;0.00857;0.217;0.1;spotify:track:0PZgWJCQF4L4AZBXSI27Ws;Ara Som Gegants;Joan Dausà
+44;0.597;0.26;0.0348;0.307;0.013999999999999999;0.608;0.6759999999999999;spotify:track:7fMUp59CqXoGYigVK2FbVl;Obriu-me el Cap;Joan Dausà
+45;0.29600000000000004;0.11199999999999999;0.0384;0.684;0.0573;0.496;0.15;spotify:track:56kl39mP1eo6ZcmJaiC2RS;Caure No Feia Mal;Joan Dausà
+46;0.7909999999999999;0.135;0.0449;0.0369;0.0;0.675;0.961;spotify:track:4Ews3V2EE9m2KmBxR0MNri;La Gran Eufòria;Joan Dausà
+47;0.73;0.142;0.0433;0.569;1.33e-06;0.426;0.655;spotify:track:1ytfO7s2XcIWiSU5lqNyqx;Tanca els Ulls;Joan Dausà
+48;0.272;0.0899;0.0294;0.61;0.000816;0.491;0.0971;spotify:track:4x4RVWFnzQrvSwwG351I1p;Nàufrags;Joan Dausà
+49;0.275;0.0962;0.0308;0.828;0.000295;0.34600000000000003;0.218;spotify:track:73dgyDBCxA0dhoCs1ReTDj;Quan Tot És Cert;Joan Dausà
+0;0.43799999999999994;0.225;0.0328;0.39299999999999996;0.00187;0.493;0.43200000000000005;spotify:track:0qaWxVVd3KrP4WY27KWpIe;In a River;Rostam
+1;0.512;0.449;0.0393;0.503;0.0172;0.6559999999999999;0.9079999999999999;spotify:track:13b7DXwrTyOnYOzYXIOHMt;Pa'lante;Salomón Beda
+2;0.138;0.107;0.0419;0.865;0.00313;0.6579999999999999;0.39799999999999996;spotify:track:6n50vexd6yBNvSOc6QHT5X;The Girl From Ipanema;Stan Getz
+3;0.6779999999999999;0.105;0.0561;0.0333;0.00123;0.8109999999999999;0.426;spotify:track:2FhN2KhUvT91Q3Er4v9Qpd;Coastin';Zion I
+4;0.8170000000000001;0.0884;0.133;0.29600000000000004;0.00336;0.61;0.889;spotify:track:0DfG1ltJnZyq4Tx3ZLL7ZU;Rock Me Amadeus - The Gold Mix;Falco
+5;0.625;0.122;0.0355;0.0804;0.0;0.818;0.9590000000000001;spotify:track:0r1kH7SIkkPP9W7mUknObF;Easy;Cro
+6;0.59;0.0851;0.0395;0.129;0.00847;0.764;0.281;spotify:track:5LciLoxa1gK70yIUeoHgRx;To My Love - Tainy Remix;Bomba Estéreo
+7;0.613;0.10800000000000001;0.0353;0.0752;0.7859999999999999;0.6970000000000001;0.214;spotify:track:1kCpiMC5axrHlYNrvZjrEJ;Burns - Moby Remix (Edit);George FitzGerald
+8;0.55;0.273;0.0428;0.02;0.899;0.765;0.218;spotify:track:337GOwUkPisx8pCL7jFBeD;FACES;The Blaze
+9;0.42700000000000005;0.10300000000000001;0.0552;0.607;0.447;0.5870000000000001;0.134;spotify:track:3NAS6MitFvREpnYQ3JalFr;Strobe Lights;Kilian & Jo
+10;0.778;0.0753;0.0459;0.0712;1.23e-06;0.583;0.6729999999999999;spotify:track:2bVb4JtkhgZk7a8W3f3tOr;Icarus;Bastille
+11;0.526;0.107;0.0374;0.0637;0.000459;0.8170000000000001;0.606;spotify:track:39Yi5kzFTB5AsTy0I81aB9;Mamita (feat. Natalia Lafourcade);Rawayana
+12;0.434;0.0999;0.0302;0.83;3.62e-06;0.7879999999999999;0.585;spotify:track:7Li9u5C7CNLvqOqhrhZEML;Dulcito e Coco;Vicente Garcia
+13;0.882;0.156;0.0413;0.0141;0.00527;0.586;0.40299999999999997;spotify:track:5NToxqZa79VhZaQLRE6omu;When Doves Cry;Alex Clare
+14;0.42;0.10800000000000001;0.0286;0.0715;5.6899999999999994e-05;0.653;0.44;spotify:track:1JRL2UNCL1JRwXlou7ByZ8;The Oldest of Sisters;Balthazar
+15;0.6609999999999999;0.0715;0.0636;0.14;0.008620000000000001;0.667;0.14300000000000002;spotify:track:3AZkhtJsX1xFXQV3MuQKnt;In Your Mind;Xibe
+16;0.34700000000000003;0.095;0.0364;0.653;0.000185;0.22;0.213;spotify:track:73DDeCMglYDloLSWpJo3ZK;Remission;ÄTNA
+17;0.335;0.11800000000000001;0.0663;0.036000000000000004;0.763;0.8029999999999999;0.183;spotify:track:2q7En96Ns1mdtAUMk1SQoF;Wildfire;Simina Grigoriu
+18;0.608;0.11900000000000001;0.0449;0.364;0.0493;0.6809999999999999;0.418;spotify:track:5jQXXdzYWGenp2tlzlyGqN;Tessellate;alt-J
+19;0.735;0.0993;0.0604;0.0163;0.61;0.708;0.72;spotify:track:3zGB8rE7Guy8R1FJ1csX95;Caje [feat. Narra] - Orginal Version;Niconé
+20;0.578;0.24600000000000002;0.043;0.22399999999999998;0.92;0.79;0.812;spotify:track:2TBL24r897ewBYvf2hItYc;All Night;Parov Stelar
+21;0.293;0.215;0.0486;0.7859999999999999;0.0;0.67;0.36;spotify:track:3N2vr4m44BBZiVCZ0O4bnf;Thirteen Thirty-Five;Dillon
+22;0.6759999999999999;0.0904;0.0547;0.187;0.0001;0.821;0.5589999999999999;spotify:track:3gNNXc7GUgKRPR15W77eDR;One Day / Reckoning Song (Wankelmut Remix) [Radio Edit];Asaf Avidan & the Mojos
+23;0.645;0.146;0.0387;0.11800000000000001;0.00114;0.569;0.247;spotify:track:7gARZ2i5u5DHC1b1n1fML5;Breezeblocks;alt-J
+24;0.154;0.122;0.0724;0.907;0.00151;0.868;0.807;spotify:track:5c4Yrl4GzS8vc4Mzq1LUFD;Fica Tudo Bem;Silva
+25;0.7759999999999999;0.45799999999999996;0.0448;0.00081;0.0;0.617;0.40700000000000003;spotify:track:0gt6DsV3Tx10wdxCoBCtLy;Love Is All I Got;Feed Me
+26;0.213;0.113;0.0434;0.836;3.2500000000000004e-05;0.777;0.273;spotify:track:24MUZWEHpIQ8zgxguyoAsa;Matty Groves;Moriarty
+27;0.56;0.29100000000000004;0.0458;0.25;0.000393;0.619;0.447;spotify:track:6d1To2gZDyaHncnt2WfMuz;Revolver;LUI HILL
+28;0.862;0.0814;0.11;0.037000000000000005;2.1899999999999997e-05;0.7909999999999999;0.5920000000000001;spotify:track:7ef4DlsgrMEH11cDZd32M6;One Kiss (with Dua Lipa);Calvin Harris
+29;0.828;0.151;0.0417;0.0106;0.0;0.607;0.6559999999999999;spotify:track:5euPMkM07PqLiC1Q0DhPiy;All The Way Up;Welshly Arms
+30;0.8290000000000001;0.307;0.0399;0.0314;0.28300000000000003;0.6970000000000001;0.0398;spotify:track:4UEzDzyec4Ri3W2i99SurO;She;The Blaze
+31;0.731;0.0722;0.09300000000000001;0.204;0.0;0.685;0.7859999999999999;spotify:track:4yN6xPLopmTLvc27pO9LIE;Si Tú La Ves (feat. Wisin);Nicky Jam
+32;0.616;0.0816;0.0272;0.27699999999999997;0.0;0.647;0.79;spotify:track:7bXvOMQ3UrcTS1dO9Ppzsg;Sober Up;AJR
+33;0.8640000000000001;0.222;0.0468;0.484;0.0;0.637;0.706;spotify:track:45FrYVS9BScbfO8lujdsW0;Saturday Sun;Vance Joy
+34;0.63;0.149;0.0527;0.853;1.9699999999999998e-05;0.564;0.423;spotify:track:1oaXXLCrcm5JUQD0XgVcle;Lovesick;LAUREL
+35;0.826;0.065;0.0286;0.0322;0.0;0.626;0.7879999999999999;spotify:track:4Hn5Jhz7OAdfTqrKZzN0tf;Found What I've Been Looking For;Tom Grennan
+36;0.608;0.0356;0.0678;0.0176;6.7e-06;0.6859999999999999;0.59;spotify:track:145QaTU2UvcUNkC04RIYkT;Alright;Jain
+37;0.541;0.106;0.12300000000000001;0.441;0.0;0.5429999999999999;0.37799999999999995;spotify:track:2EGJB8bDbbxtvSgJQLwqK7;Then;Anne-Marie
+38;0.706;0.0712;0.067;0.303;0.863;0.838;0.7759999999999999;spotify:track:0slkzFvyBWcwnjEEDtYE5E;Ultimatum - Edit;Disclosure
+39;0.129;0.157;0.0322;0.904;1.52e-06;0.363;0.147;spotify:track:0Cvjlph1WGbwZY1PlMEtJY;Come Away With Me;Norah Jones
+40;0.474;0.149;0.0313;0.779;1.23e-06;0.685;0.36;spotify:track:1jdNcAD8Ir58RlsdGjJJdx;Ho Hey;The Lumineers
+41;0.779;0.045;0.11800000000000001;0.0452;2.59e-06;0.7240000000000001;0.951;spotify:track:4m6TchyJvvZepSKYZPQFml;Bailando - Spanish Version;Enrique Iglesias
+42;0.353;0.11699999999999999;0.0855;0.768;0.00558;0.779;0.7090000000000001;spotify:track:4zJgpriKxuCTnhlJDOhnkx;Only You;Ayọ
+0;0.539;0.10099999999999999;0.17800000000000002;0.163;2.1000000000000002e-06;0.833;0.385;spotify:track:6MWtB6iiXyIwun0YzU6DFP;Wow.;Post Malone
+1;0.321;0.0884;0.32299999999999995;0.578;0.0;0.725;0.319;spotify:track:14msK75pk3pA33pzPVNtBF;7 rings;Ariana Grande
+2;0.636;0.342;0.086;0.0395;0.00125;0.8370000000000001;0.27399999999999997;spotify:track:2t8yVaLvJ0RenpXUIAC52d;a lot;21 Savage
+3;0.753;0.0944;0.11;0.159;0.0;0.526;0.376;spotify:track:0UJmSMFB05CyY3dTps6g2c;Waves;DAWN
+4;0.6729999999999999;0.47200000000000003;0.16;0.49200000000000005;1.7800000000000002e-05;0.659;0.7020000000000001;spotify:track:1s6peZNxETxrrfMrveNZW8;Proud of Me (feat. Little Simz);Mahalia
+5;0.818;0.0219;0.0334;0.00647;4.87e-06;0.695;0.9159999999999999;spotify:track:0w5Bdu51Ka25Pf3hojsKHh;Hard Times;Paramore
+6;0.85;0.068;0.0436;0.0339;2.71e-05;0.6940000000000001;0.8809999999999999;spotify:track:6grso8enYqWOZGupELzO0u;Amanhã Já Era;Nicola Són
+7;0.7240000000000001;0.13;0.0689;0.151;0.0018899999999999998;0.748;0.703;spotify:track:5JIGmdJjGKukNFJzPnWRUQ;Trap Beldi;ISSAM
+8;0.53;0.0998;0.0656;0.00172;0.9440000000000001;0.722;0.0903;spotify:track:1Xgg0bhjK57PJ6WLYOi3oY;Levo;Recondite
+9;0.24100000000000002;0.14;0.0374;0.9740000000000001;4.36e-06;0.44;0.265;spotify:track:7fZQFBBemxcu9cPx1pqsMc;Silence;Damso
+10;0.542;0.247;0.19699999999999998;0.493;2.75e-06;0.6920000000000001;0.285;spotify:track:06O3hxudc6V0BOuoCFSy71;Tout oublier;Angèle
+11;0.44;0.0901;0.0801;0.8220000000000001;3.98e-06;0.6679999999999999;0.127;spotify:track:3iXhLi33EpUfcOwasC8un1;Ta reine;Angèle
+12;0.466;0.14300000000000002;0.114;0.366;3.01e-05;0.7709999999999999;0.614;spotify:track:4mNGMNTjcTuQLZds2WTx5B;Rude (feat. Jean Deaux);Sango
+13;0.27;0.11199999999999999;0.0342;0.809;0.033;0.485;0.308;spotify:track:4yOiMpCUGmhZIDGkqiMoAt;Digital Sex;C Y G N
+14;0.447;0.11199999999999999;0.0399;0.21899999999999997;0.688;0.757;0.28;spotify:track:1YT1zLUNAy4qtdlAFX078j;slumpin;Jinsang
+15;0.561;0.11699999999999999;0.243;0.221;0.0;0.5539999999999999;0.134;spotify:track:34JhrCXAX7JXmc3gjVaspA;Double Shifts;Charlotte Cardin
+16;0.6759999999999999;0.428;0.21600000000000003;0.0198;1.26e-05;0.6729999999999999;0.391;spotify:track:7f4bRMqRKRfUNPW2gbTHSt;Save Me From Myself (with NoMBe & Big Gigantic);Louis The Child
+17;0.8340000000000001;0.0681;0.0513;6.24e-05;0.938;0.8059999999999999;0.8440000000000001;spotify:track:6YGlapOroFDIYE4mzM3Gmn;Les Enfants;Cassius
+18;0.7879999999999999;0.391;0.152;0.00428;0.639;0.574;0.0738;spotify:track:3sykiSQr56MVZW1vp3hJgK;b song;San Holo
+19;0.85;0.0545;0.212;0.0905;2.3199999999999998e-05;0.66;0.522;spotify:track:4G37Ti2mThHGFNDWj1s0OH;Brazilian Soul (feat. Sofi Tukker) - FTampa Remix;The Knocks
+20;0.9159999999999999;0.35200000000000004;0.231;0.0687;0.0;0.544;0.45399999999999996;spotify:track:2QZBf5Rq9bCHFt7j95G4w2;Bubblin (feat. Busta Rhymes) - Remix;Anderson .Paak
+21;0.5329999999999999;0.0919;0.38799999999999996;0.19399999999999998;1.4000000000000001e-05;0.56;0.9079999999999999;spotify:track:21pNGvUyQ8NjcfRrzge25F;What If I Go?;Mura Masa
+22;0.45;0.0994;0.0463;0.87;0.29600000000000004;0.757;0.938;spotify:track:4Ww5qPDBEiGZ4GZIQKUAbC;Ciao;Al Caiola
+23;0.39799999999999996;0.0783;0.0277;0.483;0.14;0.353;0.66;spotify:track:6lpZUg2awFNkCjK4g4HFrJ;Sail Along Silvery Moon;Billy Vaughn
+24;0.667;0.102;0.0679;0.271;1.2e-06;0.746;0.384;spotify:track:5udz8YvYKpDRB3gcSILh0e;thank u, next;Ariana Grande
+25;0.909;0.135;0.0432;0.000766;0.000285;0.522;0.609;spotify:track:7B9XEzNJ6dVg6iBpRvkKZU;It Gets Better;GRiZ
+26;0.863;0.11800000000000001;0.0742;0.0873;1.04e-06;0.619;0.657;spotify:track:2uAu7cL2SCVlo1MhKY9YLP;Como Enamoraban Antes;Fonseca
+27;0.805;0.29100000000000004;0.0856;0.013999999999999999;3.1e-06;0.716;0.7190000000000001;spotify:track:6tHWl8ows5JOZq9Yfaqn3M;Mine;Bazzi
+28;0.672;0.147;0.068;0.622;0.00108;0.466;0.10800000000000001;spotify:track:4rv1ww0dUwFZcDVPqhcOcX;Try Me;The Weeknd
+29;0.736;0.17300000000000001;0.0359;0.145;0.000352;0.67;0.179;spotify:track:6znZbTV31rdQmVDocXV8vH;I Wish I Could (feat. Selah Sue);Selah Sue
+30;0.745;0.10400000000000001;0.0464;0.354;2.9299999999999997e-05;0.7909999999999999;0.82;spotify:track:2ijef6ni2amuunRoKTlgww;Sin Pijama;Becky G
+31;0.872;0.0991;0.0726;0.00264;0.023;0.7140000000000001;0.722;spotify:track:6C8NyKsm8aEwdRXyGYhj55;1, 2, 3 (feat. De La Ghetto) - The Knocks Remix;Sofia Reyes
+32;0.721;0.0505;0.153;0.111;5.9e-05;0.769;0.618;spotify:track:31M5m42C3EGlbydf9XB5to;Duro y Suave;Leslie Grace
+33;0.493;0.127;0.0735;0.128;0.000147;0.909;0.8440000000000001;spotify:track:1Ft13La2daEGqz5yWJC7lx;Bella;Wolfine
+34;0.57;0.107;0.185;0.6659999999999999;0.0;0.6920000000000001;0.309;spotify:track:1It1TxBK3xIQAB4xJkPevn;Blue Lights;Jorja Smith
+35;0.151;0.11199999999999999;0.0333;0.67;0.871;0.11699999999999999;0.0378;spotify:track:0EQGC3MA6bn3z8Cpv3JkIt;In the Shadow of Man;Philip Glass
+36;0.17600000000000002;0.106;0.0375;0.10099999999999999;0.47700000000000004;0.184;0.0641;spotify:track:2CnpW34WDKYhburCxZqbih;Time of Discovery;Philip Glass
+37;0.12;0.125;0.0416;0.826;0.209;0.16399999999999998;0.0383;spotify:track:5zrI19qXGFL7lHCRiNQqmL;Mother;Philip Glass
+38;0.171;0.114;0.0331;0.539;0.774;0.294;0.0769;spotify:track:6Xa5J6QySFKK5AvN4Jmwhq;The Proposal;Philip Glass
+39;0.21600000000000003;0.11900000000000001;0.0443;0.669;0.88;0.226;0.0772;spotify:track:2GS6EzCSMwQLIxPZbST6ou;Serengeti;Philip Glass
+40;0.377;0.17600000000000002;0.0407;0.307;0.9490000000000001;0.24;0.20600000000000002;spotify:track:75zomOuF5Xe3fCrYbggeyx;The Aggression;Philip Glass
+41;0.0589;0.106;0.037000000000000005;0.919;0.774;0.24600000000000002;0.0496;spotify:track:5Cy0vzv2orXidIwWf6mAea;Hugo Arrives;Philip Glass
+42;0.6940000000000001;0.251;0.051;0.0152;0.965;0.5379999999999999;0.563;spotify:track:7fa59yrSxdnviuReYb94w6;Teeming Life;Philip Glass
+43;0.128;0.11199999999999999;0.0449;0.853;0.9129999999999999;0.139;0.106;spotify:track:3kRAtGJJGY5jolVB5sUDJO;Grub is Born;Philip Glass
+44;0.0599;0.114;0.0394;0.856;0.932;0.115;0.0358;spotify:track:0DcsIiTE6l7PqI4DVA1oCe;A New Generation;Philip Glass
+45;0.21600000000000003;0.0779;0.0382;0.7340000000000001;0.934;0.19399999999999998;0.0391;spotify:track:0t82zqUswO6oTv4zAHd56j;Parent and Child;Philip Glass
+46;0.0458;0.18899999999999997;0.0401;0.58;0.909;0.139;0.0374;spotify:track:62SNAjLWcrPxYcf3rKRaAm;Flint Dies;Philip Glass
+47;0.266;0.18;0.0314;0.513;0.93;0.23600000000000002;0.0888;spotify:track:0Jnmhjxq7KmboAzK702uNq;Time in Gombe;Philip Glass
+48;0.23600000000000002;0.47600000000000003;0.0391;0.0416;0.895;0.37799999999999995;0.11199999999999999;spotify:track:3pk1ycSonVHDk0dlbfPNro;Community Divides;Philip Glass
+49;0.294;0.10300000000000001;0.0373;0.28800000000000003;0.945;0.174;0.0399;spotify:track:6aDerNa8GOuJGIqa13gdmg;Perfect Life;Philip Glass
